@@ -18,7 +18,7 @@
 (*) 3. Install jupyter: `pip install jupyter`
 
 4. Run jupyter: `jupyter notebook`
-If this works you should have a ![Browser Screen](/images/localhost_img_1.png) popup. 
+If this works you should have jupyter pop up on your browser. 
 
 # Jupyter Notebooks
 A Jupyter notebook lets you write and execute Python code in your web browser. It makes it very easy to tinker with code and execute it in bits and pieces; for this reason IPython notebooks are widely used in scientific computing.
